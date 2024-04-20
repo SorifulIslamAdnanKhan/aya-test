@@ -1,0 +1,123 @@
+[
+    {
+      "id": "1",
+      "projectImage": "https://images.unsplash.com/photo-1538291323976-37dcaafccb12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Web Development"
+    },
+    {
+      "id": "2",
+      "projectImage": "https://images.unsplash.com/photo-1475746812396-2b046c18be0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "3",
+      "projectImage": "https://images.unsplash.com/photo-1569041032620-2d0ee0b7b673?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "App Development"
+    },
+    {
+      "id": "4",
+      "projectImage": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=410&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Web Development"
+    },
+    {
+      "id": "5",
+      "projectImage": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1239&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Graphic Design"
+    },
+    {
+      "id": "6",
+      "projectImage": "https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "App Development"
+    },
+    {
+      "id": "7",
+      "projectImage": "https://images.unsplash.com/photo-1556139902-7367723b7e9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Web Development"
+    },
+    {
+      "id": "8",
+      "projectImage": "https://images.unsplash.com/photo-1571415822965-c563f4535eaf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=415&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "9",
+      "projectImage": "https://images.unsplash.com/photo-1494252713559-f26b4bf0b174?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "App Development"
+    },
+    {
+      "id": "10",
+      "projectImage": "https://images.unsplash.com/photo-1553949333-0510da388b82?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Web Development"
+    },
+    {
+      "id": "11",
+      "projectImage": "https://images.unsplash.com/photo-1500176254583-6a2466f41aa8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Graphic Design"
+    },
+    {
+      "id": "12",
+      "projectImage": "https://images.unsplash.com/photo-1457301353672-324d6d14f471?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "App Development"
+    },
+    {
+      "id": "13",
+      "projectImage": "https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Graphic Design"
+    },
+    {
+      "id": "14",
+      "projectImage": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "15",
+      "projectImage": "https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=389&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "App Development"
+    },
+    {
+      "id": "16",
+      "projectImage": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Web Development"
+    },
+    {
+      "id": "17",
+      "projectImage": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=352&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Graphic Design"
+    },
+    {
+      "id": "18",
+      "projectImage": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Web Development"
+    },
+    {
+      "id": "19",
+      "projectImage": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "Graphic Design"
+    },
+    {
+      "id": "20",
+      "projectImage": "https://images.unsplash.com/photo-1533371452382-d45a9da51ad9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80",
+      "description": "Morbi tincidunt rutrum",
+      "category": "App Development"
+    }
+  ]
+  
